@@ -1,14 +1,47 @@
 project setup
 *************
-Inside Modkart Folder
+#######commands used: ###############
+on root folder (Inside Modkart Folder)
 
-commands used:
-1. npm init
-2. npm install --save express ejs   // two packages express and ejs
+##command:
+npx create-react-app frontend
+
+to run the project
+cd frontend
+npm start
+
+react router dom to create router on react app
 
 
-npm install -g nodemon // nodemon is used to start the server automatically -g means globally
+//create backend nodejs server
+npm init
+npm install express
+node backend/server.js //start the server
+
+nodemon// to start server automatically when changes done
+
+npm install --save-dev nodemon
+npm start
+
+npm install axios 
 
 
-//to connect database
-npm install --save mongoose
+
+install vs code extension eslink
+after installing
+npm install -D eslint
+./node_modules/.bin/eslint --init
+
+
+install redux
+npm install redux react-redux
+npm install redux-thunk
+
+
+
+// setup database
+npm install mongoose
+npm install bcryptjs
+npm install express-async-handler
+npm install jsonwebtoken
+npm install dotenv
