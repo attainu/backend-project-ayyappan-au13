@@ -1,0 +1,14 @@
+project setup
+*************
+Inside Modkart Folder
+
+commands used:
+1. npm init
+2. npm install --save express ejs   // two packages express and ejs
+
+
+npm install -g nodemon // nodemon is used to start the server automatically -g means globally
+
+
+//to connect database
+npm install --save mongoose
