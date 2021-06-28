@@ -62,7 +62,7 @@ function App() {
               <i className="fa fa-bars"></i>
             </button>
             <Link className="brand" to="/">
-            <img className="small" src="/images/logo.png" alt="logo img"/>
+            <h1>onlinemandi</h1>
             </Link>
           </div>
           <div>
