@@ -9,7 +9,7 @@ body {
   font-family: Helvetica, Arial, sans-serif;
 }
 
-/* Layout */
+/* Layout */ 
 .grid-container {
   display: grid;
   grid-template-areas:
