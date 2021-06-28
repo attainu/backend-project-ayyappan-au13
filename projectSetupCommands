@@ -1,7 +1,7 @@
 project setup
 *************
 #######commands used: ###############
-on root folder (Inside Modkart Folder)
+on root folder (Inside onlinemandi Folder)
 
 ##command:
 npx create-react-app frontend
